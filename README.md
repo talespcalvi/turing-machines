@@ -6,6 +6,6 @@
 ![image](https://github.com/user-attachments/assets/ba60be9b-4739-4044-9c28-8d43931aeb62)
 
 ### 8) Construa uma MT que reconheça as seguintes linguagens:
-### d) $L = { \{ a^i b^j a^k \mid i = j \text{ ou } j = k} \}$  fazer com 1 fita e com 3 fitas
+### d) $L = \{ a^i b^j a^k \mid i = j \text{ ou } j = k \}$  fazer com 1 fita e com 3 fitas
 ### 1 fita:
 ![image](https://github.com/user-attachments/assets/2a5d021e-3a2a-4155-ae6b-4818af5a4255)
