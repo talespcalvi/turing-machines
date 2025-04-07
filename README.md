@@ -12,3 +12,7 @@
 ### 3 fitas:
 ![image](https://github.com/user-attachments/assets/419020af-0492-4c0f-9fcb-5f38d482ca5e)
 
+### 10)
+### a) L = { w ∈ {a, b} | w contém pelo menos um a}*
+![image](https://github.com/user-attachments/assets/a66993a2-08d8-4f6a-a948-b74667c0378b)
+
