@@ -23,3 +23,7 @@
 ### a) L = { w ∈ {a, b} | w contém pelo menos um a}*
 ![image](https://github.com/user-attachments/assets/a66993a2-08d8-4f6a-a948-b74667c0378b)
 
+### 12)
+![image](https://github.com/user-attachments/assets/969923b1-19e8-4866-95e3-f63e0e67c5c0)
+
+
