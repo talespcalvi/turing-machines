@@ -16,6 +16,9 @@
 ### b) f(x, y) = 3x, para x inteiro e positivo.
 ![image](https://github.com/user-attachments/assets/06bddb5d-6423-4d09-9e20-869f0d6134cd)
 
+### f) f(x, y) = x + y, para x e y inteiros positivos.
+![image](https://github.com/user-attachments/assets/82fd373a-fd57-45e0-bd16-35cd864f95ae)
+
 ### 10)
 ### a) L = { w ∈ {a, b} | w contém pelo menos um a}*
 ![image](https://github.com/user-attachments/assets/a66993a2-08d8-4f6a-a948-b74667c0378b)
